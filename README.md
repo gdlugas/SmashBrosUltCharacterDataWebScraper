@@ -8,9 +8,10 @@ Correlation matrix of character attributes:
 </div>
 
 
+<br />
 Histograms showing distribution of character attributes: 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/2608efa1-0cc4-4933-90c6-d04f6bd0e871" width="500" height="250">
+    <img src="https://github.com/user-attachments/assets/2608efa1-0cc4-4933-90c6-d04f6bd0e871" width="400" height="200">
 </div>
 
 <div align="center">
