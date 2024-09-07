@@ -8,7 +8,7 @@ Correlation matrix of character attributes:
 
 Histograms showing distribution of character attributes: 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/2608efa1-0cc4-4933-90c6-d04f6bd0e871">
+    <img src="https://github.com/user-attachments/assets/2608efa1-0cc4-4933-90c6-d04f6bd0e871" width="600" height="600">
 </div>
 
 ![hists1](https://github.com/user-attachments/assets/826b7a85-8660-4d42-9906-d67130a3d1ea)
