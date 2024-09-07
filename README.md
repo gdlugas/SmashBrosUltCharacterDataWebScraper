@@ -4,7 +4,7 @@ This repository contains (i) a Python script that uses BeautifulSoup to scrape S
 
 Correlation matrix of character attributes: 
 <div align="center">
-        <img src="https://github.com/user-attachments/assets/bafc204b-8233-44db-8ea6-8c8056d58fd8" width="800" height="800">
+        <img src="https://github.com/user-attachments/assets/bafc204b-8233-44db-8ea6-8c8056d58fd8" width="700" height="700">
 </div>
 
 
